@@ -12,3 +12,4 @@ A simple xy-plotter, using Arduino.
 - Rail system
 - 3D-printed parts
 - Nice drawing pen
+- Cross veneer plate (base plate)
