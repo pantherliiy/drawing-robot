@@ -7,9 +7,9 @@ A simple xy-plotter, using Arduino. A rail system with stepper motors will be us
 
 ## Components and equipment (Tentative)
 - Arduino
-- Stepper motors (x2)
+- Stepper motors (x3)
 - Servo motor
 - Rail system
 - 3D-printed parts
 - Nice drawing pen
-- Cross veneer plate (base plate)
+- Base plate
